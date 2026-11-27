@@ -1,6 +1,7 @@
 # NASA Airfoil Self-Noise Prediction — ML-2026
 
 **Course:** Machine Learning Project
+**Contributors:** Only my teamates plz
 
 ## Project Overview
 
