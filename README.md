@@ -1,7 +1,6 @@
-# NASA Airfoil Self-Noise Prediction — ESILV ML-2026
+# NASA Airfoil Self-Noise Prediction — ML-2026
 
-**Team:** Robin Bonsigne & David Soares Amaral (Aerospace & Defense Major)  
-**Course:** Machine Learning Project (ESILV — ML2026, Prof. Nédra Mellouli)
+**Course:** Machine Learning Project
 
 ## Project Overview
 
